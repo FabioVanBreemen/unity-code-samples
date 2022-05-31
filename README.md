@@ -1,2 +1,3 @@
-# Fabio van Breemen Unity C#
-In deze repository staan een aantal stukken code van mijn eigen project.
+# Unity C#
+In deze repository staan een aantal classes van mijn game project.
+Meer weten? https://youtu.be/LqI5bxuMgOc
