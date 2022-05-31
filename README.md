@@ -1,4 +1,4 @@
-# Unity C#
+# Unity C# toelichting
 In deze repository staan enkele classes van mijn game project.
 
 Kleine uitleg;
